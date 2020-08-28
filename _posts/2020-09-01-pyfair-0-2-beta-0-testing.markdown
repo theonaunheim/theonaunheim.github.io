@@ -13,7 +13,7 @@ categories: update
 Please:
 
 1. Please download the [beta package of pyfair and install](https://github.com/theonaunheim/pyfair/archive/dev.zip);
-2. Run through your typical workflow in the beta version.
+2. Run through your typical workflow in the beta version; and,
 3. Send me your responses on [Github](https://github.com/theonaunheim/pyfair/tree/dev) or via this [survey link](https://forms.gle/R4yP2UcqdH4JkztP6).
 
 ## Overview
